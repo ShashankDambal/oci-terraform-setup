@@ -11,6 +11,3 @@ terraform.tfvars.json
 *.pem
 *.key
 
-
-
-.terraform/
