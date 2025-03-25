@@ -12,5 +12,5 @@ terraform.tfvars.json
 *.key
 
 
-echo ".terraform/" >> .gitignore
 
+.terraform/
