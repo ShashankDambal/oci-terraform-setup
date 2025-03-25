@@ -11,3 +11,6 @@ terraform.tfvars.json
 *.pem
 *.key
 
+
+echo ".terraform/" >> .gitignore
+
